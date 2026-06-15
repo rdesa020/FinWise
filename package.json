@@ -8,6 +8,7 @@
     "html2canvas": "^1.4.1",
     "jsonwebtoken": "^9.0.2",
     "jszip": "^3.10.1",
+    "mongodb": "^6.19.0",
     "mongoose": "^8.9.5",
     "react": "^19.0.0",
     "react-chartjs-2": "^5.3.0",
