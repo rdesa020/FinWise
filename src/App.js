@@ -10,7 +10,7 @@ import './style.css';
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 
-const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://localhost:5001';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || '';
 const CATEGORIES = ['Food', 'Transportation', 'Housing', 'Entertainment', 'Utilities', 'Healthcare', 'Education', 'Shopping', 'Other'];
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
